@@ -19,12 +19,12 @@ cd dataiku-test
 yarn install
 
 # install the playwright browser binaries
-npx playwright install
+yarn playwright install
 
 # run the tests
-npx playwright test
+yarn playwright test
 
 # if you want, open the report
-npx playwright show-report
+yarn playwright show-report
 ```
 
