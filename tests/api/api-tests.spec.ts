@@ -14,7 +14,7 @@ test.beforeAll('Setup', async ({request}) => {
   // Action - Create user1
   await apiUtils.createUser();
 })
-test.describe('Task Management APIs', () => {
+test.describe('Task Management API tests', () => {
   test('Create, edit and delete a task', async ({request}) => {
     // Arrange
     const title: string = 'My title';
