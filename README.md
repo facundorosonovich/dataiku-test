@@ -12,7 +12,7 @@ This project is a Test Automation Solution for UI and API testing using TypeScri
 
 ```bash
 # clone the project
-git clone git@github.com:facundoRosonovich/dataiku-test.git
+git clone git@github.com:facundorosonovich/dataiku-test.git
 cd dataiku-test
 
 # install dependencies
